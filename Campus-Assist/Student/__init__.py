@@ -1,0 +1,8 @@
+print("1. Add student")
+print("2. Show students")
+print("3. show details(student)")
+print("4. Expenses")
+print("5. show expenses spent")
+print("6. Take a Test")
+print("7. calculate Grade")
+print("8. exit")
