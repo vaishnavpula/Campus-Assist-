@@ -1,4 +1,4 @@
-## Campus-Assist
+# Campus-Assist
 
 A Python-based campus management system designed to manage student information, academic activities, and student expenses through a simple menu-driven interface.
 
@@ -29,19 +29,19 @@ The project uses Object-Oriented Programming (OOP), file handling, classes and o
 
 ## How to Run
 
-# 1. Clone the repository
+## 1. Clone the repository
 
 git clone https://github.com/vaishnavpula/Campus-Assist-.git
 
-# 2. Open the project directory
+## 2. Open the project directory
 
 cd Campus-Assist-
 
-# 3. Run the main program
+## 3. Run the main program
 
 python main.py
 
-# «Make sure Python is installed on your system before running the project.»
+## «Make sure Python is installed on your system before running the project.»
 
 ## Project Structure
 
@@ -67,7 +67,7 @@ Campus-Assist/
 
 ## Concepts Demonstrated
 
-# This project demonstrates:
+## This project demonstrates:
 
 - Python programming
 - Classes and objects
@@ -96,4 +96,4 @@ This project was created to strengthen Python programming and Object-Oriented Pr
 
 ## Author
 
-# Vaishnav Pula
+## Vaishnav Pula
