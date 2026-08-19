@@ -81,16 +81,15 @@ Campus-Assist/
 - Exception handling
 - Menu-driven programming
 - Modular project organization
-## Future Improvements
+## Features
 
-- Add a graphical user interface (GUI)
-- Replace file-based storage with a database
-- Add user authentication
-- Improve input validation
-- Improve the user interface
-- Add attendance management
-- Add timetable management
-- Add more campus-related features
+- Add and view student information
+- Manage student grades and calculate results
+- Track student expenses
+- Store student information using text files
+- Menu-driven command-line interface
+- Modular Python files for different functionalities
+- Object-Oriented Programming implementation
 
 ## Learning Purpose
 
@@ -98,4 +97,4 @@ This project was created to strengthen Python programming and Object-Oriented Pr
 
 ## Author
 
-## Vaishnav Pula
+**Vaishnav Pula**
