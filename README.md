@@ -66,20 +66,21 @@ Campus-Assist/
 └── README.md
 ```
 
+
 ## Concepts Demonstrated
 
 ## This project demonstrates:
 
 - Python programming
+- Object-Oriented Programming (OOP)
 - Classes and objects
-- Object-Oriented Programming
+- Inheritance
 - File handling
-- Functions and modules
 - Lists and dictionaries
-- Loops and conditional statements
-- Menu-driven applications
-- Basic project organization
-
+- Functions and methods
+- Exception handling
+- Menu-driven programming
+- Modular project organization
 ## Future Improvements
 
 - Add a graphical user interface (GUI)
