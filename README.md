@@ -1,10 +1,10 @@
-Campus-Assist
+#Campus-Assist
 
 Campus-Assist is a Python-based campus management system designed to manage student records and expense tracking.
 
 The project is built using Object-Oriented Programming (OOP) concepts and file handling in Python. It provides a simple, modular, and menu-driven way to add, view, and store student and expense information.
 
-Features
+#Features
 
 - Student record management
 - Add and view student information
@@ -13,13 +13,13 @@ Features
 - Menu-driven interface
 - Object-Oriented Programming implementation
 
-Technologies Used
+#Technologies Used
 
 - Python
 - OOP (Object-Oriented Programming)
 - File Handling
 
-How to Run
+#How to Run
 
 1. Clone the repository.
 2. Open the project folder in your terminal or VS Code.
@@ -29,7 +29,7 @@ python filename.py
 
 Replace "filename.py" with the name of the main Python file in the project.
 
-Project Structure
+#Project Structure
 
 Campus-Assist/
 │
@@ -39,7 +39,7 @@ Campus-Assist/
 ├── .gitignore
 └── README.md
 
-Learning Objectives
+#Learning Objectives
 
 This project was developed to practice:
 
@@ -50,7 +50,7 @@ This project was developed to practice:
 - Menu-driven applications
 - Basic project organization
 
-Future Improvements
+#Future Improvements
 
 - Add a graphical user interface
 - Add a database for permanent data storage
@@ -58,6 +58,6 @@ Future Improvements
 - Improve the user interface
 - Add more campus management features
 
-Author
+#Author
 
 Vaishnav Pula
