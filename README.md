@@ -41,10 +41,10 @@ cd Campus-Assist-
 
 python main.py
 
-## «Make sure Python is installed on your system before running the project.»
+### «Make sure Python is installed on your system before running the project.»
 
 ## Project Structure
-
+```
 Campus-Assist/
 │
 ├── Campus-Assist/
@@ -64,6 +64,7 @@ Campus-Assist/
 │   └── main.py
 │
 └── README.md
+```
 
 ## Concepts Demonstrated
 
